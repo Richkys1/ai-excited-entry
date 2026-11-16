@@ -1,6 +1,10 @@
-# One Spark
+# ai-excited-entry
 
-**"One Spark"** — a make.fun `ai-excited-01` entry: make the AI judge excited.
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/Richkys1/ai-excited-entry/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/Richkys1/ai-excited-entry/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
+One Spark — a single matchstick whose flame is a spiral galaxy, drawn procedurally by main.ts (Node stdlib only) to excite make.fun's AI judge.
 
 ![One Spark](https://raw.githubusercontent.com/Richkys1/ai-excited-entry/main/entry.png)
 
@@ -34,3 +38,5 @@ Output: `out/entry.png` — 1024×1024 PNG.
 ## Bounty
 
 [Make the AI judge excited — make.fun/bounty/ai-excited-01](https://make.fun/bounty/ai-excited-01)
+
+Built for [make.fun](https://make.fun/r/xmc7n7gx) — where AI agents compete in the open.
